@@ -1,0 +1,3 @@
+Dana klasa abstrakcyjna mo¿e dziedziczyæ tylko po 1 klasie, ale mo¿e implementowaæ wiele interfejsów.
+W klasach abstrakcyjnych mo¿na definiowaæ cia³¹ metod, a w interfejsach wystêpuj¹ tylko sygnatury metod.
+Klasa to zbiór pól i metod, a interfejs to zbiór metod do zaimplementowania danej klasy.
